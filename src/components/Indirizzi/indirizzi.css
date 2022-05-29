@@ -1,0 +1,37 @@
+
+
+.containerIndirizzi {
+    font-family: 'Montserrat';
+}
+.containerTitle {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.containerTitle button {
+    width: 150px;
+    padding: 15px 0;
+    font-family: 'Montserrat';
+}
+.formindirizzi {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin: 0 30px;
+    
+}
+
+.formindirizzi button {
+    width: 190px;
+    cursor:pointer;
+    height: 45px;
+    margin: 10px auto;
+    font-family: 'Montserrat';
+    
+}
+
+.formindirizzi input {
+    padding: 10px;
+    margin: 10px 0;
+    font-family: 'Montserrat';
+}

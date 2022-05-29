@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+
+.containerContatti {
+    display: flex;
+    padding: 30px 40px;
+    border-bottom: 1px solid green;
+    font-family: 'Montserrat';
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+.dettagliNumeri {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 150px;
+}
+.dettagliNome {
+    /* border: 1px solid black; */
+    width: 500px;
+}
+
+.btnUpdate {
+    border: 3px solid blue;
+    background-color: white;
+    width: 180px;
+    padding: 20px 0;
+    cursor: pointer;
+    border-radius: 25px;
+    margin-top: 70px;
+}

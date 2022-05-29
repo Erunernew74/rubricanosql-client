@@ -1,0 +1,20 @@
+.profileContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Montserrat';
+}
+.containerProfile {
+    margin-top: 35px;
+    display: flex;
+    flex-direction: column;
+}
+
+.containerProfile input {
+    padding: 10px;
+    width: 350px;
+    font-weight: bolder;
+}
+.containerProfile label {
+    margin-top: 15px;
+}

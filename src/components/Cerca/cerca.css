@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+
+.containerCerca {
+    display: flex;
+    width: 100%;
+    font-family: 'Montserrat';
+    text-align: center;
+}
+
+.formCerca {
+    /* border: 1px solid black; */
+    width: 50%;
+    height: 100vh;
+}
+.containerRisultati {
+    /* border: 1px solid red; */
+    width: 50%;
+    height: auto;
+}
+
+.containerBtn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 35px 0;
+}
